@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58de853a9748979489184253de842ddf, type: 3}
+  m_Name: Booberry
+  m_EditorClassIdentifier: 
+  SpeciesName: Blooberry
+  HP: 8
+  Defense: 0
+  Spd: 0
+  Dmg: 1
+  moves:
+  - {fileID: 11400000, guid: e98618c82312e564d8989bc14db70da2, type: 2}
+  - {fileID: 11400000, guid: 64b797e0e9430124ea7e593c85611e43, type: 2}
+  - {fileID: 11400000, guid: e0b6b3935df5dc74db07b55bfd8dbe53, type: 2}
+  - {fileID: 11400000, guid: 3310c8aa97eb6974fb29a3de45805cfd, type: 2}
+  image: {fileID: -1102674165010072215, guid: ae95a0d660ed9b444841b3725a08d6d7, type: 3}

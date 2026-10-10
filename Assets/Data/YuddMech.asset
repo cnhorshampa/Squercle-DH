@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58de853a9748979489184253de842ddf, type: 3}
+  m_Name: YuddMech
+  m_EditorClassIdentifier: 
+  SpeciesName: Yudd Mech Grut
+  HP: 45
+  Defense: 4
+  Spd: 1
+  Dmg: 1
+  moves:
+  - {fileID: 11400000, guid: 45d77059f5f61df4d9625aa17ffb939e, type: 2}
+  - {fileID: 11400000, guid: 363cf534c25e66b47a3d3ff8f463a266, type: 2}
+  - {fileID: 11400000, guid: 601c49cbe60929e4085d17f79f489acf, type: 2}
+  - {fileID: 11400000, guid: 57dc588287b20a444aa0ea91a80e75f1, type: 2}
+  image: {fileID: 779181693291184369, guid: daf0a0fd35fc91c4b9a50e10ae49a120, type: 3}

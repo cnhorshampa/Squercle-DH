@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58de853a9748979489184253de842ddf, type: 3}
+  m_Name: DungeonCrawler
+  m_EditorClassIdentifier: 
+  SpeciesName: Dungeon Crawler
+  HP: 30
+  Defense: 1
+  Spd: 0
+  Dmg: 1
+  moves:
+  - {fileID: 11400000, guid: fde901e7eddf00344949f074b3c7a7b2, type: 2}
+  - {fileID: 11400000, guid: 81f8fa9d3d0c62346a24507c4a9297bc, type: 2}
+  - {fileID: 11400000, guid: 222d9c5d0e0b9164e9ae2523d3d4cfdf, type: 2}
+  - {fileID: 11400000, guid: c23e3e6757d14a147af27282b603126b, type: 2}
+  image: {fileID: 8542169074368454389, guid: 881e2944e270e1d48ba8d89d185343c6, type: 3}

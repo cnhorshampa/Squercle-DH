@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58de853a9748979489184253de842ddf, type: 3}
+  m_Name: Squere
+  m_EditorClassIdentifier: 
+  SpeciesName: squere
+  HP: 15
+  Defense: 1
+  Spd: 3
+  Dmg: 1
+  moves:
+  - {fileID: 11400000, guid: 01c8feb571761b04faf04343974f104c, type: 2}
+  - {fileID: 11400000, guid: 74a111c843e3dd146a9d58cb5c032147, type: 2}
+  - {fileID: 11400000, guid: e4a13102281d2cc4a9129427627fa310, type: 2}
+  - {fileID: 11400000, guid: 952adab96c5fce544a62f2f37946d2d6, type: 2}
+  image: {fileID: -1300212443564323478, guid: 02d35cb18494d4946811e7e43d7891fd, type: 3}

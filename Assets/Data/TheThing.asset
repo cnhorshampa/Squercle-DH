@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58de853a9748979489184253de842ddf, type: 3}
+  m_Name: TheThing
+  m_EditorClassIdentifier: 
+  SpeciesName: ???
+  HP: 120
+  Defense: 10
+  Spd: 8
+  Dmg: 1
+  moves:
+  - {fileID: 11400000, guid: 707033ab90f7201438d7e1017a5cbbdc, type: 2}
+  - {fileID: 11400000, guid: 70f1eed4b8fb9ba4cb8f4404ef9d4758, type: 2}
+  - {fileID: 11400000, guid: 4f57daf3a97046641b2858eee6f4a895, type: 2}
+  - {fileID: 11400000, guid: d2ea2dd0f01a374439866926be7e6d15, type: 2}
+  image: {fileID: -4761553224491905795, guid: b3c631200a5c08a43bf9a5c7424cc3df, type: 3}

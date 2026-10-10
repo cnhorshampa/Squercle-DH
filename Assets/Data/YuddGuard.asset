@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58de853a9748979489184253de842ddf, type: 3}
+  m_Name: YuddGuard
+  m_EditorClassIdentifier: 
+  SpeciesName: Yudd Guard
+  HP: 20
+  Defense: 3
+  Spd: 0
+  Dmg: 1
+  moves:
+  - {fileID: 11400000, guid: a9862ad1cb40642418da1bccbffb3d87, type: 2}
+  - {fileID: 11400000, guid: c09adfca2a01e0e44bb7438eafab3e43, type: 2}
+  - {fileID: 11400000, guid: 1d5f013bb44b97545aa68aac1105922d, type: 2}
+  - {fileID: 11400000, guid: ff5989a94964a234b923c1afed5f4e6b, type: 2}
+  image: {fileID: -4429206799985507199, guid: 6f8b6721e6319f142aa34f54cb3b81ec, type: 3}

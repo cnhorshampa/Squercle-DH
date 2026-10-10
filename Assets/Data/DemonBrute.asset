@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58de853a9748979489184253de842ddf, type: 3}
+  m_Name: DemonBrute
+  m_EditorClassIdentifier: 
+  SpeciesName: Demon Brute
+  HP: 50
+  Defense: 3
+  Spd: 0
+  Dmg: 1
+  moves:
+  - {fileID: 11400000, guid: aa8c87f4a419980439da74b3a0e646a8, type: 2}
+  - {fileID: 11400000, guid: bbd666cb4e85e7148913197c1c982964, type: 2}
+  - {fileID: 11400000, guid: 7b52e17a1de6177498674548f3a7f6c7, type: 2}
+  - {fileID: 11400000, guid: 49fb918533668a34995895d5f76e5c35, type: 2}
+  image: {fileID: -1124434554084472647, guid: 07ec52f1a4629184a8ef00be64d8c61b, type: 3}

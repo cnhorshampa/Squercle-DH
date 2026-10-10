@@ -1,0 +1,1033 @@
+fileFormatVersion: 2
+guid: a6999d5db6d4b9e449e5081ed4408233
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 16
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 639248180409168648
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: RhinoVirus
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 76
+      width: 33
+      height: 35
+    spriteID: 2942e511d28268d4496732b26d97bf4b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 76}
+  - name: RhinoVirus_Frame_1
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 76
+      width: 33
+      height: 35
+    spriteID: 12f8eb227be2fc04fb2571005d83585e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 76}
+  - name: RhinoVirus_Frame_2
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 86
+      y: 76
+      width: 33
+      height: 35
+    spriteID: c5d92d902cb80ef4c9ae94f63b6cb4bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 86, y: 76}
+  - name: RhinoVirus_Frame_3
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 127
+      y: 76
+      width: 33
+      height: 35
+    spriteID: 16830c2fdf7e19f4da7cbee3427f5bb9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 127, y: 76}
+  - name: RhinoVirus_Frame_4
+    originalName: 
+    pivot: {x: 0.53125, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 76
+      width: 32
+      height: 35
+    spriteID: ea8b66f309977f244946c8ea1acad72d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 217, y: 76}
+  - name: RhinoVirus_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 191
+      width: 30
+      height: 33
+    spriteID: efa2b307a0f4f4345a79f3c3442c34ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 191}
+  - name: RhinoVirus_Frame_6
+    originalName: 
+    pivot: {x: 0.4827586, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 42
+      y: 191
+      width: 29
+      height: 33
+    spriteID: 9d8d5e7c73cea64468e1a6097b1f67f4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 42, y: 191}
+  - name: RhinoVirus_Frame_7
+    originalName: 
+    pivot: {x: 0.4827586, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 191
+      width: 29
+      height: 33
+    spriteID: 04120b910398a5243b1bdd53db34c59d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 191}
+  - name: RhinoVirus_Frame_8
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 191
+      width: 27
+      height: 33
+    spriteID: 883d306d204622b44bb530a7a87b3096
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 191}
+  - name: RhinoVirus_Frame_9
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 191
+      width: 27
+      height: 33
+    spriteID: 67b8a893f44cc864282d9ae2e88308fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 191}
+  - name: RhinoVirus_Frame_10
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 186
+      y: 191
+      width: 27
+      height: 33
+    spriteID: 604b19c72afaaca45bf18da35b9d9238
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 191}
+  - name: RhinoVirus_Frame_7
+    originalName: 
+    pivot: {x: 0.71428573, y: -0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 4
+      width: 42
+      height: 28
+    spriteID: 35f31ae70e681084985cb994d198a7dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 168, y: 4}
+  - name: RhinoVirus_Frame_14
+    originalName: 
+    pivot: {x: 0.71428573, y: -0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 40
+      width: 42
+      height: 28
+    spriteID: cec04b2ac1d9e1e44883d9284a43c8ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 40}
+  - name: RhinoVirus_Frame_15
+    originalName: 
+    pivot: {x: 0.6666667, y: -0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 48
+      height: 28
+    spriteID: 1835466a6dc34684d9e825f15a0922ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: RhinoVirus_Frame_5
+    originalName: 
+    pivot: {x: 0.6956522, y: -0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 4
+      width: 46
+      height: 28
+    spriteID: 7e30110bc65436c4fb34e0f159f95f43
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 4}
+  - name: RhinoVirus_Frame_15
+    originalName: 
+    pivot: {x: 0.6956522, y: -0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 4
+      width: 46
+      height: 28
+    spriteID: 742900652432dd94c9742aba4bffeae7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 114, y: 4}
+  - name: RhinoVirus_Frame_16
+    originalName: 
+    pivot: {x: 0.61904764, y: -0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 40
+      width: 42
+      height: 28
+    spriteID: 604aaa533630a8d4dab504a57d1dd52b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 40}
+  - name: RhinoVirus_Frame_17
+    originalName: 
+    pivot: {x: 0.63414633, y: -0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 76
+      width: 41
+      height: 28
+    spriteID: 0996f67d63603a245a0c7f3627b8428d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 168, y: 76}
+  - name: RhinoVirus_Frame_18
+    originalName: 
+    pivot: {x: 0.65000004, y: -0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 40
+      width: 40
+      height: 28
+    spriteID: af6bf121cd95a7948ab3843ad30a394a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 104, y: 40}
+  - name: RhinoVirus_Frame_19
+    originalName: 
+    pivot: {x: 0.65000004, y: -0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 152
+      y: 40
+      width: 40
+      height: 28
+    spriteID: 904e3e9393a67664f84bebb2d08dcb63
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 152, y: 40}
+  - name: RhinoVirus_Frame_20
+    originalName: 
+    pivot: {x: 0.65000004, y: -0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 40
+      width: 40
+      height: 28
+    spriteID: 27876c32cf8c55b419d202fc93e69dc8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 40}
+  - name: RhinoVirus_Frame_21
+    originalName: 
+    pivot: {x: 0.65000004, y: -0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 119
+      width: 40
+      height: 28
+    spriteID: e5d65f1e515e8074c8fe80ac0cce9189
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 119}
+  - name: RhinoVirus_Frame_22
+    originalName: 
+    pivot: {x: 0.65000004, y: -0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 119
+      width: 40
+      height: 28
+    spriteID: 30ace1fa95437584794419b14ae49550
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 119}
+  - name: RhinoVirus_Frame_23
+    originalName: 
+    pivot: {x: 0.65000004, y: -0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 119
+      width: 40
+      height: 28
+    spriteID: 40222c98565727f4f8a00ec00fa40348
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 119}
+  - name: RhinoVirus_Frame_24
+    originalName: 
+    pivot: {x: 0.65000004, y: -0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 119
+      width: 40
+      height: 28
+    spriteID: 5d561693f30792b4592db0706482d585
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 119}
+  - name: RhinoVirus_Frame_25
+    originalName: 
+    pivot: {x: 0.65000004, y: -0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 119
+      width: 40
+      height: 28
+    spriteID: de78a39fd59705045bccf1d31ab3d4ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 119}
+  - name: RhinoVirus_Frame_26
+    originalName: 
+    pivot: {x: 0.65000004, y: -0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 155
+      width: 40
+      height: 28
+    spriteID: 6db1021670457f4478af4a0165d89a3d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 155}
+  - name: RhinoVirus_Frame_27
+    originalName: 
+    pivot: {x: 0.65000004, y: -0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 155
+      width: 40
+      height: 28
+    spriteID: 3f05fc4af4ae96c45a58b8f8788611dc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 155}
+  - name: RhinoVirus_Frame_28
+    originalName: 
+    pivot: {x: 0.65000004, y: -0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 155
+      width: 40
+      height: 28
+    spriteID: ceb26694f9033c640907806bf8e1bcb6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 155}
+  - name: RhinoVirus_Frame_29
+    originalName: 
+    pivot: {x: 0.65000004, y: -0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 155
+      width: 40
+      height: 28
+    spriteID: 5d11761601883134f896873951286674
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 155}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -842331587
+    name: RhinoVirus
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: RhinoVirus_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 10
+        width: 33
+        height: 35
+      spriteId: 2942e511d28268d4496732b26d97bf4b
+    - name: RhinoVirus_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 10
+        width: 33
+        height: 35
+      spriteId: 12f8eb227be2fc04fb2571005d83585e
+    - name: RhinoVirus_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 10
+        width: 33
+        height: 35
+      spriteId: c5d92d902cb80ef4c9ae94f63b6cb4bd
+    - name: RhinoVirus_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 10
+        width: 33
+        height: 35
+      spriteId: 16830c2fdf7e19f4da7cbee3427f5bb9
+    - name: RhinoVirus_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 10
+        width: 32
+        height: 35
+      spriteId: ea8b66f309977f244946c8ea1acad72d
+    - name: RhinoVirus_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 11
+        width: 30
+        height: 33
+      spriteId: efa2b307a0f4f4345a79f3c3442c34ad
+    - name: RhinoVirus_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 11
+        width: 29
+        height: 33
+      spriteId: 9d8d5e7c73cea64468e1a6097b1f67f4
+    - name: RhinoVirus_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 11
+        width: 29
+        height: 33
+      spriteId: 04120b910398a5243b1bdd53db34c59d
+    - name: RhinoVirus_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 20
+        y: 11
+        width: 27
+        height: 33
+      spriteId: 883d306d204622b44bb530a7a87b3096
+    - name: RhinoVirus_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 20
+        y: 11
+        width: 27
+        height: 33
+      spriteId: 67b8a893f44cc864282d9ae2e88308fc
+    - name: RhinoVirus_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 20
+        y: 11
+        width: 27
+        height: 33
+      spriteId: 604b19c72afaaca45bf18da35b9d9238
+    - name: RhinoVirus_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 10
+        width: 42
+        height: 28
+      spriteId: 35f31ae70e681084985cb994d198a7dd
+    - name: RhinoVirus_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 10
+        width: 42
+        height: 28
+      spriteId: cec04b2ac1d9e1e44883d9284a43c8ae
+    - name: RhinoVirus_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 10
+        width: 48
+        height: 28
+      spriteId: 1835466a6dc34684d9e825f15a0922ed
+    - name: RhinoVirus_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 10
+        width: 46
+        height: 28
+      spriteId: 7e30110bc65436c4fb34e0f159f95f43
+    - name: RhinoVirus_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 10
+        width: 46
+        height: 28
+      spriteId: 742900652432dd94c9742aba4bffeae7
+    - name: RhinoVirus_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 10
+        width: 42
+        height: 28
+      spriteId: 604aaa533630a8d4dab504a57d1dd52b
+    - name: RhinoVirus_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 10
+        width: 41
+        height: 28
+      spriteId: 0996f67d63603a245a0c7f3627b8428d
+    - name: RhinoVirus_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 10
+        width: 40
+        height: 28
+      spriteId: af6bf121cd95a7948ab3843ad30a394a
+    - name: RhinoVirus_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 10
+        width: 40
+        height: 28
+      spriteId: 904e3e9393a67664f84bebb2d08dcb63
+    - name: RhinoVirus_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 10
+        width: 40
+        height: 28
+      spriteId: 27876c32cf8c55b419d202fc93e69dc8
+    - name: RhinoVirus_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 10
+        width: 40
+        height: 28
+      spriteId: e5d65f1e515e8074c8fe80ac0cce9189
+    - name: RhinoVirus_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 10
+        width: 40
+        height: 28
+      spriteId: 30ace1fa95437584794419b14ae49550
+    - name: RhinoVirus_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 10
+        width: 40
+        height: 28
+      spriteId: 40222c98565727f4f8a00ec00fa40348
+    - name: RhinoVirus_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 10
+        width: 40
+        height: 28
+      spriteId: 5d561693f30792b4592db0706482d585
+    - name: RhinoVirus_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 10
+        width: 40
+        height: 28
+      spriteId: de78a39fd59705045bccf1d31ab3d4ff
+    - name: RhinoVirus_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 10
+        width: 40
+        height: 28
+      spriteId: 6db1021670457f4478af4a0165d89a3d
+    - name: RhinoVirus_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 10
+        width: 40
+        height: 28
+      spriteId: 3f05fc4af4ae96c45a58b8f8788611dc
+    - name: RhinoVirus_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 10
+        width: 40
+        height: 28
+      spriteId: ceb26694f9033c640907806bf8e1bcb6
+    - name: RhinoVirus_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 10
+        width: 40
+        height: 28
+      spriteId: 5d11761601883134f896873951286674
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 64, y: 64}
