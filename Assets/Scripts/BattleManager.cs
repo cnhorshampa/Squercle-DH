@@ -376,7 +376,7 @@ public class BattleManager : MonoBehaviour {
         if (PlayerIndex != -1 && EnemyIndex != -1) {
             UpdateBattle();
         }
-        if (gameObject) 
+        
     }
     private void UpdateBattle() {
         BattleUI.instance.PlayerName.text = playerTeam[PlayerIndex].BaseData.SpeciesName;
