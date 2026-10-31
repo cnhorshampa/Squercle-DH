@@ -877,6 +877,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: c3e190b8c4216b7479a1c918ee5d9f35, type: 2}
   Levels: 01000000
   respawn: {fileID: 29829266}
+  player: {fileID: 0}
 --- !u!61 &29829268
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1077,6 +1078,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 55208970d20ee534b8dd16c3380fc728, type: 2}
   Levels: 01000000
   respawn: {fileID: 38595016}
+  player: {fileID: 0}
 --- !u!61 &38595013
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1671,6 +1673,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 222dd5cc7214d964f820229ee8cf4bf3, type: 2}
   Levels: 01000000
   respawn: {fileID: 61707311}
+  player: {fileID: 0}
 --- !u!61 &61707313
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2385,6 +2388,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: a9fef57a329562c43ad07d48dc0937ee, type: 2}
   Levels: 01000000
   respawn: {fileID: 87618395}
+  player: {fileID: 0}
 --- !u!61 &87618397
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -260515,6 +260519,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 209dac00eede9334b921119571a186ee, type: 2}
   Levels: 01000000
   respawn: {fileID: 38595016}
+  player: {fileID: 0}
 --- !u!61 &132187065
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -263903,6 +263908,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 209dac00eede9334b921119571a186ee, type: 2}
   Levels: 01000000
   respawn: {fileID: 0}
+  player: {fileID: 0}
 --- !u!61 &217378525
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -264100,6 +264106,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: c4425f4a6f5a5dc48b11d812a0af3726, type: 2}
   Levels: 01000000
   respawn: {fileID: 224225350}
+  player: {fileID: 0}
 --- !u!61 &224225349
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -264701,6 +264708,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: a9de2d6fe0906c5459c2b38d17599988, type: 2}
   Levels: 02000000
   respawn: {fileID: 242162600}
+  player: {fileID: 0}
 --- !u!61 &242162602
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -265460,6 +265468,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 237a823a037239d45a763936ae06624f, type: 2}
   Levels: 01000000
   respawn: {fileID: 260907440}
+  player: {fileID: 0}
 --- !u!1001 &264167478
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -265608,6 +265617,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 68efb6c29a6c0aa4fb91bb0d52e2d62e, type: 2}
   Levels: 01000000
   respawn: {fileID: 275076077}
+  player: {fileID: 0}
 --- !u!61 &275076079
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -266556,6 +266566,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 57c80d85b4c44214db437f68305e1be4, type: 2}
   Levels: 01000000
   respawn: {fileID: 327987154}
+  player: {fileID: 0}
 --- !u!114 &327987154
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -272456,6 +272467,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: fdb798cd5bdf4984ab0ee2deb738a1cd, type: 2}
   Levels: 01000000
   respawn: {fileID: 363473196}
+  player: {fileID: 0}
 --- !u!114 &363473196
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -275096,6 +275108,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: efb2db57612a87347931a5e54996a33b, type: 2}
   Levels: 01000000
   respawn: {fileID: 435293529}
+  player: {fileID: 0}
 --- !u!1001 &436383395
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -275532,6 +275545,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 52712acd8dc814a44a305dd770c88d53, type: 2}
   Levels: 01000000
   respawn: {fileID: 451527862}
+  player: {fileID: 0}
 --- !u!61 &451527864
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -276030,6 +276044,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 65935751b5bb0b841b63340e4a14af6c, type: 2}
   Levels: 02000000
   respawn: {fileID: 473455552}
+  player: {fileID: 0}
 --- !u!61 &473455556
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -277968,6 +277983,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 46a72764d6cf1874988069b5839b7601, type: 2}
   Levels: 01000000
   respawn: {fileID: 877901306}
+  player: {fileID: 0}
 --- !u!61 &546712254
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -278034,6 +278050,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: ca7e36d81f5914c49909e918e9e94503, type: 2}
   Levels: 02000000
   respawn: {fileID: 549981770}
+  player: {fileID: 0}
 --- !u!61 &549981769
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -278175,6 +278192,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: fdb798cd5bdf4984ab0ee2deb738a1cd, type: 2}
   Levels: 01000000
   respawn: {fileID: 557568130}
+  player: {fileID: 0}
 --- !u!114 &557568130
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -278558,6 +278576,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 209dac00eede9334b921119571a186ee, type: 2}
   Levels: 01000000
   respawn: {fileID: 0}
+  player: {fileID: 0}
 --- !u!61 &569452313
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -279274,6 +279293,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 6670216be0fa3ae41bed928300940503, type: 2}
   Levels: 01000000
   respawn: {fileID: 600044915}
+  player: {fileID: 0}
 --- !u!114 &600044915
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -279387,6 +279407,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 46a72764d6cf1874988069b5839b7601, type: 2}
   Levels: 01000000
   respawn: {fileID: 877901306}
+  player: {fileID: 0}
 --- !u!61 &603223446
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -279922,6 +279943,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 209dac00eede9334b921119571a186ee, type: 2}
   Levels: 01000000
   respawn: {fileID: 38595016}
+  player: {fileID: 0}
 --- !u!61 &623086247
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -281833,6 +281855,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 57c80d85b4c44214db437f68305e1be4, type: 2}
   Levels: 01000000
   respawn: {fileID: 690447579}
+  player: {fileID: 0}
 --- !u!114 &690447579
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -282901,6 +282924,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Squere
       objectReference: {fileID: 0}
+    - target: {fileID: -2253911629886400664, guid: 0a3db16a645c0524195dd9e7f58bfb90, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     - target: {fileID: 1160356261127867848, guid: 0a3db16a645c0524195dd9e7f58bfb90, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -283255,6 +283282,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: f16cf39187aac354e878b5f1b81dfe6a, type: 2}
   Levels: 01000000
   respawn: {fileID: 726947167}
+  player: {fileID: 0}
 --- !u!61 &726947171
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -284187,6 +284215,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: c27db7e07ac5d364a8fefa7aefb53002, type: 2}
   Levels: 02000000
   respawn: {fileID: 752805280}
+  player: {fileID: 0}
 --- !u!1001 &752997386
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -286789,6 +286818,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: a9de2d6fe0906c5459c2b38d17599988, type: 2}
   Levels: 01000000
   respawn: {fileID: 0}
+  player: {fileID: 0}
 --- !u!61 &877901303
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -287137,6 +287167,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 57c80d85b4c44214db437f68305e1be4, type: 2}
   Levels: 01000000
   respawn: {fileID: 886997550}
+  player: {fileID: 0}
 --- !u!114 &886997550
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -287184,6 +287215,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 209dac00eede9334b921119571a186ee, type: 2}
   Levels: 01000000
   respawn: {fileID: 38595016}
+  player: {fileID: 0}
 --- !u!61 &888538799
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -288230,7 +288262,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
@@ -289570,6 +289602,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: c4425f4a6f5a5dc48b11d812a0af3726, type: 2}
   Levels: 01000000
   respawn: {fileID: 978436900}
+  player: {fileID: 0}
 --- !u!61 &978436899
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -290919,6 +290952,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: e9a43736bb39a1f4198ea84c4b0f475e, type: 2}
   Levels: 01000000
   respawn: {fileID: 1028206040}
+  player: {fileID: 0}
 --- !u!61 &1028206039
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -293166,6 +293200,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 91f428d17140c134198f53f3f42479a7, type: 2}
   Levels: 01000000
   respawn: {fileID: 1111235900}
+  player: {fileID: 0}
 --- !u!1 &1117951216 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2253911629886400664, guid: ae95a0d660ed9b444841b3725a08d6d7, type: 3}
@@ -293187,6 +293222,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 55208970d20ee534b8dd16c3380fc728, type: 2}
   Levels: 01000000
   respawn: {fileID: 1117951220}
+  player: {fileID: 0}
 --- !u!114 &1117951220
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -810480,6 +810516,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 46a72764d6cf1874988069b5839b7601, type: 2}
   Levels: 01000000
   respawn: {fileID: 877901306}
+  player: {fileID: 0}
 --- !u!61 &1185865996
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -811218,6 +811255,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 3bed7b5c7efb73f4a8a85d57dd8fad72, type: 2}
   Levels: 01000000
   respawn: {fileID: 1228882111}
+  player: {fileID: 0}
 --- !u!1001 &1229430938
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -812358,6 +812396,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 347d396cd3593d242bbd0ebf939465da, type: 2}
   Levels: 02000000
   respawn: {fileID: 1252109745}
+  player: {fileID: 0}
 --- !u!61 &1252109747
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -812723,6 +812762,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 06713031515fc774d8d21a9b5f5d13ef, type: 2}
   Levels: 01000000
   respawn: {fileID: 1255611499}
+  player: {fileID: 0}
 --- !u!1001 &1266860969
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -814208,6 +814248,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 52712acd8dc814a44a305dd770c88d53, type: 2}
   Levels: 01000000
   respawn: {fileID: 1351123479}
+  player: {fileID: 0}
 --- !u!61 &1351123481
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -817306,6 +817347,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: a9fef57a329562c43ad07d48dc0937ee, type: 2}
   Levels: 01000000
   respawn: {fileID: 1431012892}
+  player: {fileID: 0}
 --- !u!114 &1431012892
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -818433,6 +818475,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 06713031515fc774d8d21a9b5f5d13ef, type: 2}
   Levels: 01000000
   respawn: {fileID: 1467394827}
+  player: {fileID: 0}
 --- !u!1 &1470440304 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2253911629886400664, guid: eb2cdf6c33c1abe4a8c4e6725be83fac, type: 3}
@@ -818738,6 +818781,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 46a72764d6cf1874988069b5839b7601, type: 2}
   Levels: 01000000
   respawn: {fileID: 877901306}
+  player: {fileID: 0}
 --- !u!61 &1473069601
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -819582,6 +819626,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 06713031515fc774d8d21a9b5f5d13ef, type: 2}
   Levels: 01000000
   respawn: {fileID: 1506520954}
+  player: {fileID: 0}
 --- !u!1001 &1510487346
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -819902,6 +819947,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 46a72764d6cf1874988069b5839b7601, type: 2}
   Levels: 01000000
   respawn: {fileID: 877901306}
+  player: {fileID: 0}
 --- !u!61 &1510612190
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -822068,6 +822114,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: a8ddd25c257b47c4dbe3aabbf5980ba2, type: 2}
   Levels: 01000000
   respawn: {fileID: 1593082290}
+  player: {fileID: 0}
 --- !u!61 &1593082292
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -824352,6 +824399,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: bda341513857cc64384fe25f75210793, type: 2}
   Levels: 01000000
   respawn: {fileID: 0}
+  player: {fileID: 0}
 --- !u!61 &1675240291
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -825375,6 +825423,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 68efb6c29a6c0aa4fb91bb0d52e2d62e, type: 2}
   Levels: 01000000
   respawn: {fileID: 1703116392}
+  player: {fileID: 0}
 --- !u!61 &1703116394
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -832470,6 +832519,7 @@ MonoBehaviour:
   Monsters: []
   Levels: 
   respawn: {fileID: 0}
+  player: {fileID: 0}
 --- !u!61 &1800765149
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -833081,6 +833131,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: b97e1d0654a273d459dc7397ce66c20b, type: 2}
   Levels: 01000000
   respawn: {fileID: 0}
+  player: {fileID: 0}
 --- !u!114 &1819755350
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -833914,6 +833965,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: e09ba9fbcd7327947b76cee5f664b143, type: 2}
   Levels: 01000000
   respawn: {fileID: 1843288874}
+  player: {fileID: 0}
 --- !u!114 &1843288874
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -836648,6 +836700,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 6a538b8d85cb4f343b4fa74fbecc1cdd, type: 2}
   Levels: 01000000
   respawn: {fileID: 1941858926}
+  player: {fileID: 0}
 --- !u!114 &1941858926
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -838523,6 +838576,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: c4425f4a6f5a5dc48b11d812a0af3726, type: 2}
   Levels: 01000000
   respawn: {fileID: 2026397419}
+  player: {fileID: 0}
 --- !u!61 &2026397418
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -839462,6 +839516,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: bda341513857cc64384fe25f75210793, type: 2}
   Levels: 01000000
   respawn: {fileID: 0}
+  player: {fileID: 0}
 --- !u!61 &2055502255
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -840492,6 +840547,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: a61dbef273015f04d82bea58f2838efa, type: 2}
   Levels: 01000000
   respawn: {fileID: 2082958717}
+  player: {fileID: 0}
 --- !u!1 &2083106885
 GameObject:
   m_ObjectHideFlags: 0
@@ -840897,6 +840953,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: b6d226ea3fc644d45b3c96edd63e0501, type: 2}
   Levels: 02000000
   respawn: {fileID: 2092186272}
+  player: {fileID: 0}
 --- !u!1 &2096994879
 GameObject:
   m_ObjectHideFlags: 0
@@ -841653,6 +841710,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 65935751b5bb0b841b63340e4a14af6c, type: 2}
   Levels: 01000000
   respawn: {fileID: 2122301668}
+  player: {fileID: 0}
 --- !u!61 &2122301672
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -841933,6 +841991,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 5e5df2abfddb2744396a00811ec5542b, type: 2}
   Levels: 01000000
   respawn: {fileID: 0}
+  player: {fileID: 0}
 --- !u!1001 &2128321861
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -842724,6 +842783,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: a0b687d7662ce2644a64db406776d49e, type: 2}
   Levels: 02000000
   respawn: {fileID: 2139674023}
+  player: {fileID: 0}
 --- !u!114 &2139674023
 MonoBehaviour:
   m_ObjectHideFlags: 0

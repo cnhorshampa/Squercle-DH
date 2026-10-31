@@ -18,4 +18,9 @@ public class PlayerParty : MonoBehaviour
         team.Add (monster);
     }
 
+    public void healAll() {
+        foreach(Monsterinstance monster in team) {
+            monster.CurrentHP = monster.BaseData.HP;
+        }
+    }
 }

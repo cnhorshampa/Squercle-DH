@@ -10,7 +10,7 @@ using UnityEngine.SceneManagement;
 public class BattleManager : MonoBehaviour {
     public static BattleManager instance;
     public event Action onBattleStart;
-    public event Action<bool> onBattleEnd;
+    public event Action<int> onBattleEnd;
     private List<Monsterinstance> playerTeam;
     private List<Monsterinstance> enemyTeam;
     private int PlayerIndex;
@@ -153,7 +153,7 @@ public class BattleManager : MonoBehaviour {
                     // TODO: decrease duration for player status effects.
 
                     isBattleStarted = false;
-                    onBattleEnd?.Invoke(false);
+                    onBattleEnd?.Invoke(0);
                 }
             }
             
@@ -195,7 +195,7 @@ public class BattleManager : MonoBehaviour {
             // TODO reload
             //SceneManager.LoadScene(0);
             isBattleStarted = false;
-            onBattleEnd?.Invoke(false);
+            onBattleEnd?.Invoke(2);
 
         }
         bool EnemyAlive = enemyTeam.Exists(P => !P.isFainted());
@@ -225,7 +225,7 @@ public class BattleManager : MonoBehaviour {
     }
     public void OnEscapePressed() {
         if(UnityEngine.Random.Range(1, 3) == 1) {
-            onBattleEnd?.Invoke(true);
+            onBattleEnd?.Invoke(1);
         }
         else {
             BattleUI.instance.LogMessage("Failed to escape!");
@@ -406,7 +406,7 @@ public class BattleManager : MonoBehaviour {
             if (UnityEngine.Random.Range(0.0f, 1.0f) < chance) {
                 PlayerParty.instance.AddToTeam(activeEnemy());
                 BattleUI.instance.LogMessage($"Caught {activeEnemy().BaseData.name}");
-                onBattleEnd?.Invoke(false);
+                onBattleEnd?.Invoke(0);
             }
             else {
                 BattleUI.instance.LogMessage("Failed to catch");

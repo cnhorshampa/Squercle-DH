@@ -7,10 +7,12 @@ public class BattleTrigger : MonoBehaviour {
     public List<MonsterBase> Monsters;
     public List<int> Levels;
     public Respawn respawn;
+    public GameObject player;
 
     // Start is called before the first frame update
     void Start() {
         respawn = GetComponent<Respawn>();
+        player = GameObject.FindWithTag("Player");
     }
 
     // Update is called once per frame
@@ -32,16 +34,29 @@ public class BattleTrigger : MonoBehaviour {
         StartBattle();
 
     }
-    private void onBattleEnd(bool isescaping) {
+    private void onBattleEnd(int status) {
         BattleManager.instance.onBattleEnd -= onBattleEnd;
-        if (!isescaping) {
-            if (respawn){
+        //if (!isescaping) {
+        //    if (respawn){
+        //        respawn.despawn();
+        //    }
+        //    else {
+        //        Destroy(gameObject);
+        //    }
+
+        //}
+        if (status == 0) {
+            if (respawn) {
                 respawn.despawn();
             }
             else {
                 Destroy(gameObject);
             }
-
         }
-    }
+        else if (status == 2) {
+            player.transform.position = new Vector3(517, 310, 0);
+            PlayerParty.instance.healAll();
+        }
+
+     }
 }

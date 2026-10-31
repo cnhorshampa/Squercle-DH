@@ -62,7 +62,7 @@ public class BattleUI : MonoBehaviour {
         //
     }
 
-    private void handleBattleEnd(bool isescaping) {
+    private void handleBattleEnd(int status) {
         gameObject.SetActive(false);
     }
 
